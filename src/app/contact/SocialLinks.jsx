@@ -30,9 +30,9 @@ const SocialLinks = () => {
             >
               <FaFacebook />
             </Link>
-            <Link href={"#!"} className="hover:text-secondary">
+            {/* <Link href={"#!"} className="hover:text-secondary">
               <FaInstagram />
-            </Link>
+            </Link> */}
             <Link
               href={
                 "https://www.linkedin.com/in/alfa-assets-920b131b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
@@ -41,9 +41,9 @@ const SocialLinks = () => {
             >
               <FaLinkedin />
             </Link>
-            <Link href={"#!"} className="hover:text-secondary">
+            {/* <Link href={"#!"} className="hover:text-secondary">
               <FaXTwitter />
-            </Link>
+            </Link> */}
           </div>
         </div>
       </div>

@@ -87,14 +87,13 @@ const Footer = () => {
                   <li className="leading-normal">
                     <h5 className="mb-2.5 font-bold uppercase">Address</h5>
                     <Link href="/" className="hover:text-primary">
-                      G-36, First Floor, Outer circle, Connaught place, New
-                      Delhi - 110001
+                      24 Th Floor, Tower B , Alphathum, Sector 90, NOIDA
                     </Link>
                   </li>
                   <li className="mt-3 leading-normal">
-                    <Link href="tel:+91-981 172 4700">
+                    <Link href="tel:8595786159">
                       <h5 className="mb-2.5 font-bold uppercase">Phone</h5>
-                      <div className="hover:text-primary">+91 98186 47557</div>
+                      <div className="hover:text-primary">85957 86159</div>
                     </Link>
                   </li>
                 </ul>

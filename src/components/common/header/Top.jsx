@@ -20,9 +20,9 @@ const Top = () => {
         >
           <FaFacebook />
         </Link>
-        <Link href={"#!"} className="hover:text-secondary">
+        {/* <Link href={"#!"} className="hover:text-secondary">
           <FaInstagram />
-        </Link>
+        </Link> */}
         <Link
           href={
             "https://www.linkedin.com/in/alfa-assets-920b131b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
@@ -31,17 +31,17 @@ const Top = () => {
         >
           <FaLinkedin />
         </Link>
-        <Link href={"#!"} className="hover:text-secondary">
+        {/* <Link href={"#!"} className="hover:text-secondary">
           <FaXTwitter />
-        </Link>
+        </Link> */}
       </div>
 
       {/* Email and Phone No. */}
       <div className="lg:flex gap-5 lg:mx-0 mx-14 lg:mt-0 mt-2">
-        <Link href="tel:+91 98186 47557" className="hover:text-secondary">
+        <Link href="tel:8595786159" className="hover:text-secondary">
           <div className="flex gap-3">
             <FaPhoneAlt className="mt-1" />
-            <p>+91 98186 47557</p>
+            <p>85957 86159</p>
           </div>
         </Link>
 
