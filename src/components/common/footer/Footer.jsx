@@ -107,7 +107,7 @@ const Footer = () => {
           © 2024 Copyright:
           <Link
             className="text-white font-semibold underline"
-            href="https://tw-elements.com/"
+            href="https://tekbooster.com/"
           >
             TekBooster
           </Link>
