@@ -30,28 +30,22 @@ const Footer = () => {
 
                 <ul className="mb-0 list-none leading-loose">
                   <li>
-                    <Link href="/" className="hover:text-darkgreen">
+                    <Link href="/" className="hover:text-primary">
                       Home
                     </Link>
                   </li>
                   <li>
-                    <Link
-                      href="/about/who-are-we"
-                      className="hover:text-darkgreen"
-                    >
+                    <Link href="/about" className="hover:text-primary">
                       About Us
                     </Link>
                   </li>
                   <li>
-                    <Link
-                      href="/about/why-choose-us"
-                      className="hover:text-darkgreen"
-                    >
+                    <Link href="/articles" className="hover:text-primary">
                       Articles
                     </Link>
                   </li>
                   <li>
-                    <Link href="/contact" className="hover:text-darkgreen">
+                    <Link href="/contact" className="hover:text-primary">
                       Contact Us
                     </Link>
                   </li>
@@ -60,27 +54,27 @@ const Footer = () => {
             </div>
             <div className="lg:flex justify-center mt-6">
               <div className="mb-6">
-                <h5 className="mb-2.5 font-bold uppercase">Treatments</h5>
+                <h5 className="mb-2.5 font-bold uppercase">Products</h5>
 
                 <ul className="mb-0 list-none leading-loose">
                   <li>
-                    <Link href="/tests/1" className="hover:text-blue">
-                      Oncology
+                    <Link href="/products/2" className="hover:text-primary">
+                      Condominiums
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tests/2" className="hover:text-blue">
-                      Orthopedic Surgery
+                    <Link href="/products/4" className="hover:text-primary">
+                      Office Spaces
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tests/3" className="hover:text-blue">
-                      Spine Surgery
+                    <Link href="/products/5" className="hover:text-primary">
+                      Farm Houses
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tests/4" className="hover:text-blue">
-                      Urology
+                    <Link href="/products/1" className="hover:text-primary">
+                      Premium Floors and Villas
                     </Link>
                   </li>
                 </ul>
@@ -92,7 +86,7 @@ const Footer = () => {
                 <ul className="mb-0 list-none leading-loose">
                   <li className="leading-normal">
                     <h5 className="mb-2.5 font-bold uppercase">Address</h5>
-                    <Link href="/" className="hover:text-blue">
+                    <Link href="/" className="hover:text-primary">
                       G-36, First Floor, Outer circle, Connaught place, New
                       Delhi - 110001
                     </Link>
@@ -100,7 +94,7 @@ const Footer = () => {
                   <li className="mt-3 leading-normal">
                     <Link href="tel:+91-981 172 4700">
                       <h5 className="mb-2.5 font-bold uppercase">Phone</h5>
-                      <div className="hover:text-blue">+91 98186 47557</div>
+                      <div className="hover:text-primary">+91 98186 47557</div>
                     </Link>
                   </li>
                 </ul>
@@ -113,7 +107,7 @@ const Footer = () => {
         <div className="w-full bg-primary text-white p-4 text-center">
           © 2024 Copyright:
           <Link
-            className="text-white font-semibold"
+            className="text-white font-semibold underline"
             href="https://tw-elements.com/"
           >
             TekBooster

@@ -13,15 +13,15 @@ export const menuData = [
   },
   {
     id: 3,
-    title: "Treatments",
+    title: "Services",
     newTab: true,
-    path: "/treatments",
+    path: "/services",
   },
   {
     id: 4,
-    title: "Hospitals",
+    title: "Products",
     newTab: false,
-    path: "/hospitals",
+    path: "/products",
   },
   {
     id: 5,

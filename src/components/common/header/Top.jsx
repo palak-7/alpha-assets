@@ -38,7 +38,7 @@ const Top = () => {
         <Link href={"#!"} className="hover:text-secondary">
           <div className="flex gap-3">
             <MdEmail className="mt-1" />
-            <p>info@treatglobe.com</p>
+            <p>info@alfaassets.com</p>
           </div>
         </Link>
       </div>

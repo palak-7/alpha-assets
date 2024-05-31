@@ -7,7 +7,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { GrPrevious } from "react-icons/gr";
 import { GrNext } from "react-icons/gr";
-import { product } from "./product";
+import { product } from "../product";
 const Products = () => {
   var settings = {
     dots: true,
@@ -42,16 +42,14 @@ const Products = () => {
 
         <div className="absolute inset-0">
           <div className="flex justify-center">
-            <div>
-              <h1 className="bg-white text-center p-3 bg-opacity-50 font-bold text-4xl mt-10 shadow-xl">
-                Premium Products
-              </h1>
-            </div>
+            <h1 className="bg-white text-center p-3 bg-opacity-50 font-bold text-4xl mt-10 shadow-xl">
+              Premium Products
+            </h1>
           </div>
           <Slider {...settings} className="overflow-x-clip">
             {product.map((h) => (
               <div className="" key={h.id}>
-                <div className="bg-white m-10 mx-20">
+                <div className="bg-white m-10 xl:mx-20">
                   <Image
                     src={`/products/${h.image}`}
                     width={1000}

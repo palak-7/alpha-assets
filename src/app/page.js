@@ -5,13 +5,16 @@ import Contact from "@/components/homepage/Contact";
 import React from "react";
 import Strategies from "@/components/homepage/Strategies";
 import Products from "@/components/homepage/Products";
+import { services } from "@/components/services";
 
 const page = () => {
+  const filtered = services.slice(0, 3);
+
   return (
     <div>
       <Banner />
       <WhyChooseUs />
-      <Services />
+      <Services filtered={filtered} />
       <Products />
       <Strategies />
       <Contact />

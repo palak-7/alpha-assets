@@ -8,21 +8,21 @@ const Contact = () => {
         src="/contact/contact.png"
         width={10000}
         height={10000}
-        className="w-full h-[600px]"
+        className="w-full xl:h-[600px] h-[450px]"
         alt="contact"
       />
       <div className="absolute inset-0">
-        <div className="grid grid-cols-2">
-          <div className="bg-white text-center mt-[200px] mx-20">
-            <h1 className="p-2 mt-2">Contact Us</h1>
-            <h1 className="text-3xl font-bold mx-10 mt-5">
+        <div className="lg:grid grid-cols-2">
+          <div className="bg-white text-center xl:mt-[150px] xl:mx-20 mx-5 xl:pb-0 pb-1">
+            <h1 className="p-2 xl:mt-2 mt-4">Contact Us</h1>
+            <h1 className="text-3xl font-bold xl:mx-10 mt-5">
               ACHIEVE YOUR GREATEST GOALS
             </h1>
             <p className="text-lg m-6">
               Collaborate with our advisors to create a personalized plan that
               empowers you to navigate change with confidence.
             </p>
-            <Link href="/">
+            <Link href="/contact">
               <div className="border-gray-400 border-2 m-10 p-2 text-lg hover:text-white hover:bg-primary">
                 Contact our experts
               </div>
