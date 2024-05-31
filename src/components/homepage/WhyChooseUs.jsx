@@ -21,11 +21,10 @@ const WhyChooseUs = () => {
               Why Choose Us ?
             </h1>
             <p className="mx-10">
-              At Alfa Assets, we redefine wealth management by offering tailored
-              solutions for Ultra High Income (UHI) and Ultra High Net Worth
-              Individuals (UHNI). Choose Alfa Assets for a partnership built on
-              trust, transparency, and a commitment to empowering your financial
-              success.
+              Choosing Alfa Asset and Infra-venture means partnering with a team
+              that is dedicated to your success. Experience the difference with
+              our expert guidance, personalized service, and unwavering
+              commitment to excellence.
             </p>
             <div className="flex justify-center">
               <Image
@@ -43,48 +42,42 @@ const WhyChooseUs = () => {
                 Our Commitment to Excellence
               </h1>
               <p className="text-center mt-2">
-                As a premier asset management firm, we prioritize excellence in
-                every aspect of our services. From personalized investment
-                strategies to dedicated client support, we go above and beyond
-                to deliver exceptional results.
+                Our unwavering commitment to excellence drives everything we do.
+                We strive to exceed client expectations through meticulous
+                planning, execution, and ongoing support.
               </p>
             </div>
             <div className="border-2 border-gray-300 hover:bg-primary hover:text-white p-3 rounded-lg">
               <h1 className="text-center font-bold text-lg">
-                Customized Investment Strategies
+                Personalized Advisory Services
               </h1>
               <p className="text-center mt-2">
-                We understand that each client has unique financial objectives
-                and risk tolerances. That&apos;s why our team of experienced
-                advisors crafts customized investment strategies that align with
-                your goals, whether it&apos;s wealth preservation, growth, or
-                philanthropic endeavors.
+                We understand that each client has unique needs and goals. Our
+                personalized transaction advisory services are tailored to meet
+                your specific requirements, ensuring a smooth and hassle-free
+                acquisition process.
               </p>
             </div>
           </div>
           <div className="mt-10 col-span-3 xl:mr-5 xl:mx-0 mx-3">
             <div className="border-2 border-gray-300 hover:bg-primary hover:text-white p-3 rounded-lg mb-3">
-              <h1 className="text-center font-bold text-lg">
-                Exclusive Access and Opportunities
-              </h1>
+              <h1 className="text-center font-bold text-lg">Expert Team</h1>
               <p className="text-center mt-2">
-                As a UHI or UHNI client, you gain access to exclusive investment
-                opportunities and alternative asset classes. From private equity
-                to real estate ventures, we provide access to curated
-                opportunities designed to enhance your portfolio&apos;s
-                diversification and potential returns.
+                Our team consists of highly experienced professionals with
+                in-depth knowledge of the real estate and infrastructure
+                sectors. We bring years of expertise and a proven track record
+                of successful asset management and consultancy.
               </p>
             </div>
             <div className="border-2 border-gray-300 p-3 rounded-lg bg-primary text-white hover:bg-white hover:text-black">
               <h1 className="text-center font-bold text-lg">
-                Dedicated Client Support
+                Comprehensive Due Diligence
               </h1>
               <p className="text-center mt-2">
-                Your financial journey is our priority. Our dedicated client
-                support team is available to address your inquiries, provide
-                regular updates, and ensure a seamless experience throughout our
-                partnership. We are committed to building long-term
-                relationships based on trust and transparency.
+                We conduct thorough due diligence to ensure that the assets we
+                recommend promise high returns and align with your investment
+                goals. Our rigorous evaluation process guarantees that you are
+                investing in the best opportunities available.
               </p>
             </div>
           </div>

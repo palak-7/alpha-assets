@@ -91,9 +91,9 @@ const Footer = () => {
                     </Link>
                   </li>
                   <li className="mt-3 leading-normal">
-                    <Link href="tel:8595786159">
+                    <Link href="tel:+91-8595786159">
                       <h5 className="mb-2.5 font-bold uppercase">Phone</h5>
-                      <div className="hover:text-primary">85957 86159</div>
+                      <div className="hover:text-primary">+91-8595786159</div>
                     </Link>
                   </li>
                 </ul>

@@ -38,17 +38,20 @@ const Top = () => {
 
       {/* Email and Phone No. */}
       <div className="lg:flex gap-5 lg:mx-0 mx-14 lg:mt-0 mt-2">
-        <Link href="tel:8595786159" className="hover:text-secondary">
+        <Link href="tel:+91-85957861599" className="hover:text-secondary">
           <div className="flex gap-3">
             <FaPhoneAlt className="mt-1" />
-            <p>85957 86159</p>
+            <p>+91-8595786159</p>
           </div>
         </Link>
 
-        <Link href={"#!"} className="hover:text-secondary">
+        <Link
+          href={"mailto:info@alfaasset.in"}
+          className="hover:text-secondary"
+        >
           <div className="flex gap-3">
             <MdEmail className="mt-1" />
-            <p>info@alfaassets.com</p>
+            <p>info@alfaasset.in</p>
           </div>
         </Link>
       </div>

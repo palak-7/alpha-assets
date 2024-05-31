@@ -36,11 +36,11 @@ function Banner() {
                 <Cursor cursorBlinking cursorStyle="|" cursorColor="#ffaa17" />
               </h1>
               <p className="lg:px-14 px-3 font-sans mt-3">
-                Welcome to Alfa Assets, your trusted partner in bespoke asset
-                management solutions. Catering exclusively to Ultra High Net
-                Worth and High Net Worth clients, we offer personalized,
-                strategic financial services designed to preserve and grow your
-                wealth across generations.
+                Alfa Asset and Infra-venture is a premier Asset Portfolio
+                Management Service company specializing in real estate and
+                infrastructure assets. We serve as trusted consultants and asset
+                managers for our clients, offering expertise across a diverse
+                range of properties and services.
               </p>
               <div className="space-x-3 flex justify-center mt-3">
                 <Link

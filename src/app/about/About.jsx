@@ -23,10 +23,12 @@ const About = () => {
               Mission
             </h1>
             <p className="p-5">
-              At Alfa Assets, our mission is to empower Ultra High Net Worth
-              Individuals (UHNIs) and High Net Worth Individuals (HNIs) by
-              providing tailored wealth management solutions that align with
-              their unique financial goals.
+              At Alfa Asset and Infra-venture, our mission is to deliver
+              exceptional asset portfolio management services by leveraging our
+              deep industry expertise and extensive network. We are dedicated to
+              providing personalized, high-quality advisory services that ensure
+              our clients achieve optimal returns on their real estate and
+              infrastructure investments.
             </p>
           </div>
           <div className="border-gray-300 border-2 m-10 pt-5">
@@ -34,12 +36,14 @@ const About = () => {
               Our Vision
             </h1>
             <p className="p-5">
-              Our vision is to be the premier wealth management firm for UHNIs
-              and HNIs, recognized for our unwavering commitment to excellence,
-              integrity, and innovation. We aim to lead the industry by
-              integrating cutting-edge financial solutions with a deep
-              understanding of our clients&apos; needs, fostering long-term
-              relationships built on trust and mutual success.
+              Our vision is to be the leading asset management and consultancy
+              firm in the real estate and infrastructure sectors, recognized for
+              our integrity, innovation, and client-centric approach. We aspire
+              to continuously explore and identify premier assets, setting new
+              standards in the industry. By fostering a culture of excellence
+              and adaptability, we aim to drive sustainable growth for our
+              clients and contribute significantly to the development of
+              top-tier real estate and infrastructure projects.
             </p>
           </div>
         </div>

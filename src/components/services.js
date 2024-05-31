@@ -1,58 +1,58 @@
 export const services = [
   {
     id: 1,
-    name: "Wealth Management",
+    name: "INVESTMENT ADVISORY",
     image: "wealth.png",
     content:
-      "At Alfa Assets, we offer comprehensive wealth management services that cater specifically to the intricate needs of HNIs and UHNIs. Our team of seasoned professionals works closely with you to develop customized investment plans that align with your financial goals, risk tolerance, and time horizon",
+      "At Alfa Asset and Infra-venture, our Investment Advisory services are designed to provide you with strategic insights and personalized guidance to maximize your real estate and infrastructure investments. Whether you are a seasoned investor or new to the market, our comprehensive advisory services are tailored to meet your unique financial goals.",
   },
   {
     id: 2,
-    name: "Financial Planning",
+    name: "SOURCING OF INVESTMENT PRODUCTS/ ASSET",
     image: "financial.png",
     content:
-      "We provide tailored financial planning services that help you achieve your short-term and long-term financial goals. Our comprehensive approach encompasses retirement planning, education planning, and strategies for wealth preservation. We take the time to understand your unique circumstances and aspirations, crafting a financial roadmap that guides you through various life stages. ",
+      "At Alfa Asset Partners, we redefine investment advisory with a personalized approach tailored to your financial goals and aspirations. Backed by decades of experience, our team of seasoned professionals navigates the intricate landscape of investment opportunities to craft bespoke strategies for each of our valued Investor-Partners.",
   },
   {
     id: 3,
-    name: "Estate Planning",
+    name: "ACTIVE SERVICING OF ACQUIRED ASSETS",
     image: "estate.png",
     content:
-      "We assist you in developing comprehensive estate plans that ensure the smooth transfer of wealth and assets to future generations. Our estate planning services include the creation of wills, trusts, and estate administration. We work closely with you to understand your legacy goals, helping to minimize estate taxes and facilitate an orderly distribution of your assets.",
+      "At Alfa Asset and Infra-venture, we understand that acquiring an asset is just the beginning of a successful investment journey. Our Active Servicing of Acquired Assets ensures that your investments are managed efficiently, maintained at optimal performance, and continuously generate value.",
   },
   {
     id: 4,
-    name: "Tax Optimization",
-    image: "tax.png",
+    name: "ASSET ACQUISITION SERVICES",
+    image: "acquisition.png",
     content:
-      "Our tax optimization services focus on minimizing your tax liabilities while maximizing tax-efficient investments. We provide strategic tax planning to take advantage of available tax-saving opportunities, ensuring compliance with tax laws and regulations.",
+      "At Alfa Asset and Infra-venture, we offer comprehensive Asset Acquisition Services designed to help you identify, evaluate, and acquire prime real estate and infrastructure assets. Our expertise, market knowledge, and strategic approach ensure that your asset acquisition journey is smooth, efficient, and aligned with your investment goals.",
   },
   {
     id: 5,
-    name: "Risk Management",
-    image: "risk.png",
+    name: "DUE DILIGENCE & ASSET VALUATION",
+    image: "due.png",
     content:
-      "Mitigating risks is crucial in wealth management, and our sophisticated risk management solutions are designed to protect your assets against various threats. We employ advanced tools to assess and manage market volatility, currency risks, geopolitical risks, and other factors that could impact your wealth.",
+      "At Alfa Asset and Infra-venture, we recognize the critical importance of thorough due diligence and accurate asset valuation in real estate and infrastructure investments. Our comprehensive services in due diligence and asset valuation are designed to provide you with the insights and information needed to make informed investment decisions and maximize returns.",
   },
   {
     id: 6,
-    name: "Legal and Regulatory Compliance",
+    name: "LEGAL & TAX COMPLIANCE SERVICES",
     image: "law.png",
     content:
-      "Navigating the complex landscape of legal and regulatory requirements is essential for HNIs and UHNIs. We assist you with compliance matters, including tax laws, reporting obligations, and regulatory changes that may affect your wealth. Our team ensures that you remain compliant with all relevant regulations, protecting you from legal risks and penalties.",
+      "At Alfa Asset and Infra-venture, we recognize that navigating the complex legal and tax landscape is crucial for the successful management and profitability of real estate and infrastructure investments. Our Legal & Tax Compliance Services are designed to ensure that your investments are fully compliant with all relevant regulations, minimizing risk and optimizing financial outcomes.",
   },
   {
     id: 7,
-    name: "Philanthropy and Giving",
-    image: "giving.png",
+    name: "MANAGING YIELD (EARNING) FROM THE ASSETS",
+    image: "earning.png",
     content:
-      "e offer guidance on philanthropic initiatives and charitable giving strategies that allow you to support causes that matter to you. Our services include advice on setting up foundations, donor-advised funds, and impact investing opportunities. By aligning your philanthropic efforts with your financial plan, we help you make a meaningful impact while receiving potential tax benefits.",
+      "At Alfa Asset and Infra-venture, we understand that maximizing the yield from your real estate and infrastructure investments is paramount to achieving your financial goals. Our comprehensive yield management services are designed to optimize the earnings from your assets, ensuring sustainable and profitable returns.",
   },
   {
     id: 8,
-    name: "Alternative Investments",
-    image: "alternative.png",
+    name: "BUY & SALE SIDE INTERVENTIONS & DEAL NEGOTIATIONS.",
+    image: "negotiaion.png",
     content:
-      "AssetGuard offers access to a broad range of exclusive alternative investment opportunities, including private equity, venture capital, hedge funds, and real estate investments. These alternative asset classes provide diversification beyond traditional investments, enhancing your portfolio's potential returns.",
+      "At Alfa Asset and Infra-venture, we understand that successful real estate and infrastructure investments hinge on strategic buy and sale side interventions and effective deal negotiations. Our comprehensive services are designed to support you throughout the entire transaction process, ensuring that you secure the best possible terms and maximize your investment returns.",
   },
 ];
