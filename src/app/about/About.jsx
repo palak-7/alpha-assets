@@ -13,6 +13,7 @@ const About = () => {
               height={1000}
               width={1000}
               className="h-[200px] w-full object-cover"
+              alt="mission"
             />
           </div>
         </div>
@@ -37,7 +38,7 @@ const About = () => {
               and HNIs, recognized for our unwavering commitment to excellence,
               integrity, and innovation. We aim to lead the industry by
               integrating cutting-edge financial solutions with a deep
-              understanding of our clients' needs, fostering long-term
+              understanding of our clients&apos; needs, fostering long-term
               relationships built on trust and mutual success.
             </p>
           </div>
