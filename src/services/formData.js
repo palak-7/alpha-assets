@@ -11,10 +11,10 @@ export async function sendFormData(data) {
   }
 }
 
-export async function addTest(data) {
+export async function subscribe(data) {
   try {
     const result = await httpAxios
-      .post("/api/addTest", data)
+      .post("/api/newsletter", { data })
       .then((response) => response.data);
     return result;
   } catch (error) {

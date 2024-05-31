@@ -12,13 +12,23 @@ const Top = () => {
     <div className="bg-primary lg:flex justify-evenly p-3 text-lg text-white">
       {/* Social Icons */}
       <div className="flex gap-5 mt-1 lg:mx-0 mx-24">
-        <Link href={"#!"} className="hover:text-secondary">
+        <Link
+          href={
+            "https://www.facebook.com/profile.php?id=100064168657723&mibextid=ZbWKwL"
+          }
+          className="hover:text-secondary"
+        >
           <FaFacebook />
         </Link>
         <Link href={"#!"} className="hover:text-secondary">
           <FaInstagram />
         </Link>
-        <Link href={"#!"} className="hover:text-secondary">
+        <Link
+          href={
+            "https://www.linkedin.com/in/alfa-assets-920b131b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          }
+          className="hover:text-secondary"
+        >
           <FaLinkedin />
         </Link>
         <Link href={"#!"} className="hover:text-secondary">
