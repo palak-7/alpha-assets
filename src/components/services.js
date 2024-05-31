@@ -11,7 +11,7 @@ export const services = [
     name: "SOURCING OF INVESTMENT PRODUCTS/ ASSET",
     image: "financial.png",
     content:
-      "At Alfa Asset Partners, we redefine investment advisory with a personalized approach tailored to your financial goals and aspirations. Backed by decades of experience, our team of seasoned professionals navigates the intricate landscape of investment opportunities to craft bespoke strategies for each of our valued Investor-Partners.",
+      "At Alfa Assets & Infraventure, we redefine investment advisory with a personalized approach tailored to your financial goals and aspirations. Backed by decades of experience, our team of seasoned professionals navigates the intricate landscape of investment opportunities to craft bespoke strategies for each of our valued Investor-Partners.",
   },
   {
     id: 3,
