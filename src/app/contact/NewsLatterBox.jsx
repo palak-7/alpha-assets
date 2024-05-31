@@ -3,8 +3,10 @@
 import { useState } from "react";
 import { subscribe } from "@/services/formData";
 import Swal from "sweetalert2";
+import { useRouter } from "next/navigation";
 const NewsLatterBox = () => {
   const [email, setEmail] = useState("");
+  const router = useRouter();
   const handleSubmit = async (e) => {
     e.preventDefault();
     const response = await subscribe(email);
