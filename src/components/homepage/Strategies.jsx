@@ -22,7 +22,7 @@ const Strategies = () => {
               TIME-TESTED STRATEGIES FOR LIFELONG SUCCESS
             </h1>
             <p className="mt-3 leading-relaxed">
-              At Alfa Asset, we believe in the power of proven methodologies to
+              At Alfa Assets, we believe in the power of proven methodologies to
               secure your financial future. Our approach combines deep market
               insight with personalized planning to ensure your wealth grows and
               adapts with you over time.

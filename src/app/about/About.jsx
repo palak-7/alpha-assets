@@ -23,7 +23,7 @@ const About = () => {
               Mission
             </h1>
             <p className="p-5">
-              At Alfa Asset and Infra-venture, our mission is to deliver
+              At Alfa Assets and Infra-venture, our mission is to deliver
               exceptional asset portfolio management services by leveraging our
               deep industry expertise and extensive network. We are dedicated to
               providing personalized, high-quality advisory services that ensure

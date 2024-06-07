@@ -21,9 +21,9 @@ const WhyChooseUs = () => {
               Why Choose Us ?
             </h1>
             <p className="mx-10">
-              Choosing Alfa Asset and Infra-venture means partnering with a team
-              that is dedicated to your success. Experience the difference with
-              our expert guidance, personalized service, and unwavering
+              Choosing Alfa Assets and Infra-venture means partnering with a
+              team that is dedicated to your success. Experience the difference
+              with our expert guidance, personalized service, and unwavering
               commitment to excellence.
             </p>
             <div className="flex justify-center">
