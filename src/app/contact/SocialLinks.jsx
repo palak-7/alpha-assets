@@ -15,9 +15,9 @@ const SocialLinks = () => {
         Connect with Us on Social Media
       </h3>
       <p>
-        Stay informed with the latest news and insights from Alfa Assets by
-        connecting with us on social media. Join the conversation and engage
-        with our community.
+        Stay informed with the latest news and insights from Alfa Assets & Infra
+        Ventures by connecting with us on social media. Join the conversation
+        and engage with our community.
       </p>
       <div className="container max-w-screen-lg mx-auto mt-4">
         <div className="flex justify-center">
