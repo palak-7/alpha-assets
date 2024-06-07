@@ -22,10 +22,10 @@ const Strategies = () => {
               TIME-TESTED STRATEGIES FOR LIFELONG SUCCESS
             </h1>
             <p className="mt-3 leading-relaxed">
-              At Alfa Assets, we believe in the power of proven methodologies to
-              secure your financial future. Our approach combines deep market
-              insight with personalized planning to ensure your wealth grows and
-              adapts with you over time.
+              At Alfa Assets & Infra Ventures, we believe in the power of proven
+              methodologies to secure your financial future. Our approach
+              combines deep market insight with personalized planning to ensure
+              your wealth grows and adapts with you over time.
             </p>
           </div>
           <div
