@@ -36,7 +36,7 @@ function Banner() {
                 <Cursor cursorBlinking cursorStyle="|" cursorColor="#ffaa17" />
               </h1>
               <p className="lg:px-14 px-3 font-sans mt-3">
-                Alfa Assets and Infra-venture is a premier Asset Portfolio
+                Alfa Assets & Infra Ventures is a premier Asset Portfolio
                 Management Service company specializing in real estate and
                 infrastructure assets. We serve as trusted consultants and asset
                 managers for our clients, offering expertise across a diverse
