@@ -11,7 +11,7 @@ import Link from "next/link";
 const SocialLinks = () => {
   return (
     <div className="relative z-10 rounded-sm bg-white p-8 shadow-three dark:bg-gray-dark sm:p-11 lg:p-8 xl:p-11">
-      <h3 className="mb-4 text-2xl font-bold leading-tight text-black dark:text-white">
+      <h3 className="dark:text-black mb-4 text-2xl font-bold leading-tight text-black">
         Connect with Us on Social Media
       </h3>
       <p>
