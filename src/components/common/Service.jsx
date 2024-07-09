@@ -13,7 +13,7 @@ const Service = ({ filtered }) => {
       onExit={() => setAnimate(false)}
     >
       <div
-        className={`xl:mt-[30px] ${
+        className={`xl:mt-[30px] dark:text-black ${
           animate && "animate__animated animate__fadeInUp animate__slow"
         }`}
       >

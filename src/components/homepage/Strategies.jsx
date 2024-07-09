@@ -11,7 +11,7 @@ const Strategies = () => {
       onEnter={() => setAnimate(true)}
       onExit={() => setAnimate(false)}
     >
-      <div className="mt-[50px]">
+      <div className="mt-[50px] dark:text-black">
         <div className="lg:grid grid-cols-2">
           <div
             className={`${

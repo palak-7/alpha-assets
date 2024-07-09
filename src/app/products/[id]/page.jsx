@@ -5,7 +5,7 @@ const page = ({ params }) => {
   const id = params.id;
   const p = product.filter((x) => x.id == id);
   return (
-    <div className="xl:mt-[200px] mt-[250px]">
+    <div className="xl:mt-[200px] mt-[250px] dark:text-black">
       <h1 className="text-center text-5xl mb-7 font-serif font-bold">
         {p[0].name}
       </h1>

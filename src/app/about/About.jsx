@@ -3,7 +3,7 @@ import Image from "next/image";
 import WhyChooseUs from "@/components/homepage/WhyChooseUs";
 const About = () => {
   return (
-    <div className="mt-[200px] relative font-sans">
+    <div className="mt-[200px] relative font-sans dark:text-black">
       <div className="xl:grid grid-cols-4">
         <div className="bg-primary text-white font-bold text-3xl grid grid-rows-2">
           <h1 className="mt-16 px-5 text-center">Our Mission And Vision</h1>

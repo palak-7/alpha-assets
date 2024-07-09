@@ -42,7 +42,7 @@ const Products = () => {
 
         <div className="absolute inset-0">
           <div className="flex justify-center">
-            <h1 className="bg-white text-center p-3 bg-opacity-50 font-bold text-4xl mt-10 shadow-xl">
+            <h1 className="bg-white dark:text-black text-center p-3 bg-opacity-50 font-bold text-4xl mt-10 shadow-xl">
               Premium Products
             </h1>
           </div>
@@ -57,7 +57,7 @@ const Products = () => {
                     className="w-[320px] h-[220px] mb-5 border-secondary border-4"
                     alt="products"
                   />
-                  <h1 className="text-center text-lg font-bold mx-10 pb-5">
+                  <h1 className="dark:text-black text-center text-lg font-bold mx-10 pb-5">
                     {h.name}
                   </h1>
                 </div>

@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 const Contact = () => {
   return (
-    <div className="mt-[50px] relative">
+    <div className="mt-[50px] relative dark:text-black">
       <Image
         src="/contact/contact.png"
         width={10000}

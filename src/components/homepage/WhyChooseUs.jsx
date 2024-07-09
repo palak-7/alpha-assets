@@ -16,7 +16,7 @@ const WhyChooseUs = () => {
         }`}
       >
         <div className="lg:grid grid-cols-12">
-          <div className="col-span-6">
+          <div className="col-span-6 dark:text-black">
             <h1 className="font-bold text-5xl mx-10 text-center pt-10 font-serif mb-6">
               Why Choose Us ?
             </h1>
@@ -47,7 +47,7 @@ const WhyChooseUs = () => {
                 planning, execution, and ongoing support.
               </p>
             </div>
-            <div className="border-2 border-gray-300 hover:bg-primary hover:text-white p-3 rounded-lg">
+            <div className="dark:text-black border-2 border-gray-300 hover:bg-primary hover:text-white p-3 rounded-lg">
               <h1 className="text-center font-bold text-lg">
                 Personalized Advisory Services
               </h1>
@@ -59,7 +59,7 @@ const WhyChooseUs = () => {
               </p>
             </div>
           </div>
-          <div className="mt-10 col-span-3 xl:mr-5 xl:mx-0 mx-3">
+          <div className="dark:text-black mt-10 col-span-3 xl:mr-5 xl:mx-0 mx-3">
             <div className="border-2 border-gray-300 hover:bg-primary hover:text-white p-3 rounded-lg mb-3">
               <h1 className="text-center font-bold text-lg">Expert Team</h1>
               <p className="text-center mt-2">

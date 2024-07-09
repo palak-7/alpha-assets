@@ -121,7 +121,7 @@ const Header = () => {
                 >
                   <ul className="block lg:flex lg:space-x-4">
                     {menuData.map((menuItem, index) => (
-                      <li key={index} className="group relative">
+                      <li key={index} className="group relative dark:text-black">
                         {menuItem.path ? (
                           <Link
                             onClick={() => {

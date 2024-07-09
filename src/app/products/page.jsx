@@ -4,7 +4,7 @@ import Link from "next/link";
 import { product } from "@/components/product";
 const page = () => {
   return (
-    <div className="xl:mt-[200px] mt-[250px]">
+    <div className="xl:mt-[200px] mt-[250px] dark:text-black">
       <h1 className="text-center text-5xl mb-7 font-serif font-bold">
         Our Premium Products
       </h1>

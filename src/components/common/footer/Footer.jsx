@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 const Footer = () => {
   return (
-    <div>
+    <div className="dark:text-black">
       <footer className=" items-center text-surface">
         <div className="border text-gray-600 mt-5 mx-5"></div>
         <div className="container py-20 pl-10 pt-6 mt-[50px] lg:mt-[100px]">
