@@ -9,7 +9,7 @@ import { services } from "@/components/services";
 
 const page = () => {
   const filtered = services.slice(0, 3);
-  console.log("code clone successfully")
+
   return (
     <div>
       <Banner />
