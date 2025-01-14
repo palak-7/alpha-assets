@@ -43,7 +43,7 @@ const Products = () => {
         <div className="absolute inset-0">
           <div className="flex justify-center">
             <h1 className="bg-white dark:text-black text-center p-3 bg-opacity-50 font-bold text-4xl mt-10 shadow-xl">
-              Premium Products
+              Premium Product category
             </h1>
           </div>
           <Slider {...settings} className="overflow-x-clip">
