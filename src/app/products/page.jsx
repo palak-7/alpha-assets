@@ -6,7 +6,7 @@ const page = () => {
   return (
     <div className="xl:mt-[200px] mt-[250px] dark:text-black">
       <h1 className="text-center text-5xl mb-7 font-serif font-bold">
-        Our Premium Products
+        Our Premium Product category
       </h1>
       <div className="lg:grid grid-cols-3 lg:mx-20 space-x-4">
         {product.map((d) => (
